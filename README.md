@@ -1,5 +1,5 @@
 ## Welcome to my Github!
-'Console.WriteLine("Hello World");'
+`Console.WriteLine("Hello World");`
 I'm a Game Developer and Designer
 ---
 Studies Information Technology at National Economics University, Viet Nam
