@@ -10,6 +10,4 @@ Facebook: fb.com/ngtzzz
 Email: ngtzzz250403@gmail.com
 
 
----
-### Check some of my project below:
----
+![Image]("projects.png project")
