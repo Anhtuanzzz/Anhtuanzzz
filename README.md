@@ -1,8 +1,7 @@
 ## Welcome to my Github!
 ---
-Game Developer and Designer
+![Image](profile.png "profile")
 
-Studies Information Technology at National Economics University, Viet Nam
 ### My social profile:
 
 Facebook: fb.com/ngtzzz
