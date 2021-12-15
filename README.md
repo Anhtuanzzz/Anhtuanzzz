@@ -1,5 +1,5 @@
-## Welcome to my Github!
----
+# Welcome to my Github!
+
 ![Image](profile.png "profile")
 
 ### My social profile:
