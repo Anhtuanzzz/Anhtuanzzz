@@ -3,10 +3,13 @@
 Game Developer and Designer
 
 Studies Information Technology at National Economics University, Viet Nam
-### You can contact me via:
-[Facebook](https://www.facebook.com/ngtzzz/)
+### My social profile:
 
-[Email](ngtzzz250403@gmail.com)
+Facebook: fb.com/ngtzzz
+
+Email: ngtzzz250403@gmail.com
+
+
 ---
 ### Check some of my project below:
 ---
