@@ -2,7 +2,7 @@
 
 ![Image](profile.png "profile")
 
-### My social profile:
+## My social profile:
 
 Facebook: fb.com/ngtzzz
 
