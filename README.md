@@ -13,7 +13,7 @@
 
 
 <div>
-    <img src='https://github-readme-stats.vercel.app/api?username=anhtuanzzz&show_icons=true&theme=gotham' height="1750m" />
+    <img src='https://github-readme-stats.vercel.app/api?username=anhtuanzzz&show_icons=true&theme=gotham' height="175m" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuanzzz&layout=compact&theme=gotham" height="175em" />
 </div>
 
