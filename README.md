@@ -7,7 +7,7 @@
 
 <div>
     <h3>My social profie:</h3>
-    <p>Facebook: <a href="fb.com/ngtzzz">Nguyễn Tuấn</a></p>
+    <p>Facebook: <a href="https://fb.com/ngtzzz">Nguyễn Tuấn</a></p>
     <p>Gmail: ngtzzz250403@gmail.com</p>
 </div>
 
