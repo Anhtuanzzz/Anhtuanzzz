@@ -1,7 +1,5 @@
 # Welcome to my Github!
 
-![Image](profile.png "profile")
-
 ## My social profile:
 
 Facebook: fb.com/ngtzzz
