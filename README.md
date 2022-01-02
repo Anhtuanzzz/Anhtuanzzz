@@ -10,4 +10,4 @@
 <img src='https://github-readme-stats.vercel.app/api?username=anhtuanzzz&show_icons=true&theme=gotham' height="200em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuanzzz&layout=compact&theme=gotham" height="200em" />
 
-<imc src="project.png" />
+![Image](projects.png "project")
