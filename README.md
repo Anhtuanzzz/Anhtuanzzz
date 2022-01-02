@@ -1,13 +1,21 @@
 <h1>Welcome to my Github!</h1>
 
-<p>IT K63A NEU</p>
-<p>Frontend and Game Developer</p>
+<div>
+    <p>IT K63A NEU</p>
+    <p>Frontend and Game Developer</p>
+</div>
 
-<h3>My social profie:</h3>
-<a href="fb.com/ngtzzz">Facebook</a>
-<p>Gmail: ngtzzz250403@gmail.com</p>
+<div>
+    <h3>My social profie:</h3>
+    <a href="fb.com/ngtzzz">Facebook</a>
+    <p>Gmail: ngtzzz250403@gmail.com</p>
+</div>
 
-<img src='https://github-readme-stats.vercel.app/api?username=anhtuanzzz&show_icons=true&theme=gotham' height="100em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuanzzz&layout=compact&theme=gotham" height="100em" />
+
+<div>
+    <img src='https://github-readme-stats.vercel.app/api?username=anhtuanzzz&show_icons=true&theme=gotham' height="200em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuanzzz&layout=compact&theme=gotham" height="200em" />
+</div>
+
 
 ![Image](projects.png "project")
