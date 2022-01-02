@@ -1,12 +1,13 @@
-# Welcome to my Github!
+<h1>Welcome to my Github!</h1>
 
-## My social profile:
+<p>IT K63A NEU</p>
+<p>Frontend and Game Developer</p>
 
-Facebook: fb.com/ngtzzz
+<h3>My social profie:</h3>
+<a href="fb.com/ngtzzz">Facebook</a>
+<p>Gmail: ngtzzz250403@gmail.com</p>
 
-Email: ngtzzz250403@gmail.com
+<img src='https://github-readme-stats.vercel.app/api?username=anhtuanzzz&show_icons=true&theme=gotham' height="200em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuanzzz&layout=compact&theme=gotham" height="200em" />
 
-![My stats](https://github-readme-stats.vercel.app/api?username=anhtuanzzz&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuanzzz&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-![Image](projects.png "project")
+<imc src="project.png" />
