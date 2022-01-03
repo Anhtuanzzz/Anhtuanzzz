@@ -6,9 +6,10 @@
 </div>
 
 <div>
-    <h3>My social profie:</h3>
-    <p>Facebook: <a href="https://fb.com/ngtzzz">Nguyễn Tuấn</a></p>
-    <p>Gmail: ngtzzz250403@gmail.com</p>
+    <h3>You can contact me via:</h3>
+    <p>👥Facebook: <a href="https://fb.com/ngtzzz">Nguyễn Tuấn</a></p>
+    <p>🏢LinkedIn: <a href="https://www.linkedin.com/in/ngt-zzz/">Nguyen Anh Tuan</a></p>
+    <p>📧Gmail: ngtzzz250403@gmail.com</p>
 </div>
 
 
