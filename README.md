@@ -1,8 +1,8 @@
 <h1>Welcome to my Github!</h1>
 
 <div>
-    <p>IT K63A NEU</p>
-    <p>Frontend and Game Developer</p>
+    <p>🎒IT K63A NEU</p>
+    <p>🧑‍💻Frontend and Game Developer</p>
 </div>
 
 <div>
