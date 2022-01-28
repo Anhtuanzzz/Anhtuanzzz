@@ -1,6 +1,6 @@
 <div align="center">
     <h1>👋Welcome to my Github!👋</h1>
-    <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight' />
+    <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight' width=100%/>
 </div>
 
 <div>
@@ -26,6 +26,7 @@
 ## Game Engine
 ![Unity](https://img.shields.io/badge/UNITY-%23323330.svg?style=for-the-badge&logo=unity&logoColor=%FFFFFF)
 ![Unreal](https://img.shields.io/badge/unreal_engine-black.svg?style=for-the-badge&logo=unreal-engine&logoColor=#0E1128)
+# 📈My stats
 
 <div>
     <img src='https://github-readme-stats.vercel.app/api?username=anhtuanzzz&include_all_commits=true&show_icons=true&theme=tokyonight' height="175em" />
