@@ -1,11 +1,11 @@
 <div align="center">
-    <h1>Welcome to my Github!</h1>
+    <h1>👋Welcome to my Github!👋</h1>
 </div>
 
 <div>
     <p>🎒IT K63A NEU</p>
     <p>🧑‍💻Frontend and Game Developer</p>
-    <p>Mission:</p>
+    <p>✅Missions:</p>
     <ul>
         <li>Learning IT and Game Development</li>
         <li>Create an indie game before 2023</li>
