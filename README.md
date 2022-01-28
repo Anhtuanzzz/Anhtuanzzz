@@ -2,6 +2,11 @@
     <h1>Welcome to my Github!</h1>
 </div>
 
+<div>
+    <p>🎒IT K63A NEU</p>
+    <p>🧑‍💻Frontend and Game Developer</p>
+</div>
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ngtzzz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ngt.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ngt-zzz) 
 
@@ -13,12 +18,6 @@
 ## Game Engine
 ![Unity](https://img.shields.io/badge/UNITY-%23323330.svg?style=for-the-badge&logo=unity&logoColor=%FFFFFF)
 ![Unreal](https://img.shields.io/badge/unreal_engine-%23323330.svg?style=for-the-badge&logo=unreal-engine&logoColor=#0E1128)
-
-
-<div>
-     <p>🎒IT K63A NEU</p>
-    <p>🧑‍💻Frontend and Game Developer</p>
-</div>
 
 <div>
     <img src='https://github-readme-stats.vercel.app/api?username=anhtuanzzz&show_icons=true&theme=nightowl' height="175m" />
