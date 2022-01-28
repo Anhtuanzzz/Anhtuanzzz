@@ -1,5 +1,6 @@
 <div align="center">
     <h1>👋Welcome to my Github!👋</h1>
+    <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight' />
 </div>
 
 <div>
@@ -26,8 +27,8 @@
 ![Unreal](https://img.shields.io/badge/unreal_engine-black.svg?style=for-the-badge&logo=unreal-engine&logoColor=#0E1128)
 
 <div>
-    <img src='https://github-readme-stats.vercel.app/api?username=anhtuanzzz&show_icons=true&theme=nightowl' height="175m" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuanzzz&layout=compact&theme=nightowl" height="175em" />
+    <img src='https://github-readme-stats.vercel.app/api?username=anhtuanzzz&include_all_commits=true&show_icons=true&theme=gotham' height="175em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuanzzz&layout=compact&theme=gotham" height="175em" />
 </div>
 
 <br/>
