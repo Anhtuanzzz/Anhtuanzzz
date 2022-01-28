@@ -5,9 +5,15 @@
 <div>
     <p>🎒IT K63A NEU</p>
     <p>🧑‍💻Frontend and Game Developer</p>
+    <p>Mission:</p>
+    <ul>
+        <li>Learning IT and Game Development</li>
+        <li>Create an indie game before 2023</li>
+        <li>Join a game company in the future and create AAA game</li>
+    </ul>
 </div>
 
-## 🌐Socials
+# 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ngtzzz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ngt.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ngt-zzz) 
 
 # 💻Tech Stack
