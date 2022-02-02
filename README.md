@@ -9,9 +9,9 @@
     <p>🧑‍💻Frontend and Game Developer</p>
     <p>✅Missions:</p>
     <ul>
-        <li>Learning IT and Game Development</li>
-        <li>Create an indie game before 2023</li>
-        <li>Join a game company in the future and create AAA game</li>
+        <li>Learning IT and Game Development (ongoing)</li>
+        <li>Create an indie game before 2023 (near future)</li>
+        <li>Join a game company in the future and create AAA games (dream and ambition)</li>
     </ul>
 </div>
 
