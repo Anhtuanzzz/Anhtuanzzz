@@ -7,6 +7,7 @@
     <p>🧑Gender: Male</p>
     <p>🎒Studying Information Technology at National Economics University</p>
     <p>🧑‍💻Frontend and Game Developer</p>
+    <p>Intern Frontend Developer at Vietsearch</p>
     <p>✅Missions:</p>
     <ul>
         <li>Learning IT, CS and Game Development (ongoing)</li>
